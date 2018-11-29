@@ -1,4 +1,4 @@
-# Optimization of nanofilms thickness using a Genetic Algorithm (GA)
+# Optimization of nanofilms thickness using the Genetic Algorithm (GA)
 
 This project created for improving the results of a paper from the [journal of applied physics](https://aip.scitation.org/journal/jap).
 
